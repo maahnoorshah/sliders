@@ -25,7 +25,7 @@ function draw() {
   fill(0,0,0)
 	var rNumber = rSlider.value();
 	var gNumber = gSlider.value();
-	var bNumber = gSlider.value();
+	var bNumber = bSlider.value();
 
   text(["r = "+rNumber],125,30);
   text(["g = "+gNumber],125,60);
